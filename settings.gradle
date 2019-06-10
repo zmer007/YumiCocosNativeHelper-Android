@@ -1,1 +1,1 @@
-include ':app', ':yumiadshelper'
+include ':app', ':androidquery'

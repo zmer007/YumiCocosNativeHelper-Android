@@ -32,3 +32,12 @@ dependencies {
     implementation 'com.yumimobi.ads.mediation:admob:3.6.1'
     implementation 'com.yumimobi.ads:mediation:3.6.1'
 }
+
+ext {
+    PUBLISH_GROUP_ID = 'com.yumimobi.ads.thirdparty'
+    PUBLISH_ARTIFACT_ID = 'androidquery'
+    PUBLISH_VERSION = '0.26.7.0'
+}
+
+
+apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
