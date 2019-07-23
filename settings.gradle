@@ -1,1 +1,1 @@
-include ':app', ':bytedance'
+include ':app', ':iasdkcore'
