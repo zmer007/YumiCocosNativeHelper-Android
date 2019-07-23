@@ -1,1 +1,1 @@
-include ':app', ':iavideokit'
+include ':app', ':iamraidkit'
