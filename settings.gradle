@@ -1,1 +1,1 @@
-include ':app', ':iasdkcore'
+include ':app', ':iavideokit'
