@@ -34,8 +34,8 @@ dependencies {
 }
 
 ext {
-    PUBLISH_GROUP_ID = 'com.yumimobi.ads'
-    PUBLISH_ARTIFACT_ID = 'bytedance'
+    PUBLISH_GROUP_ID = 'com.yumimobi.ads.mediation'
+    PUBLISH_ARTIFACT_ID = 'byte-dance'
     PUBLISH_VERSION = '0.1.0'
 }
 

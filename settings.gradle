@@ -1,1 +1,1 @@
-include ':app', ':ianativekit'
+include ':app', ':byte-dance'
