@@ -35,7 +35,7 @@ dependencies {
 
 ext {
     PUBLISH_GROUP_ID = 'com.yumimobi.ads.mediation'
-    PUBLISH_ARTIFACT_ID = 'byte-dance'
+    PUBLISH_ARTIFACT_ID = 'tapjoy'
     PUBLISH_VERSION = '0.1.0'
 }
 
